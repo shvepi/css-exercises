@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+button {
+    font-size: 28px;
+    font-family: Helvetica, "Times new Roma", sans-serif;
+}
+
+.Me {
+    background-color: black;
+    color: white;
+}
+
+.you {
+    background-color: yellow;
+    color: black;
+}
